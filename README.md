@@ -2,6 +2,7 @@
 Projeto desenvolvido para disciplina de Estrutura de Dados
 
 *Descrição do Sistema*
+
 Uma gravadora mantém cadastrados os seus artistas, suas canções e álbuns lançados.
 
 Os dados dos artistas, das canções e álbuns são mantidos em vetores de tamanho fixo ordenados pela chave de ordenação, que para o vetor de artista é o código do artista, para
