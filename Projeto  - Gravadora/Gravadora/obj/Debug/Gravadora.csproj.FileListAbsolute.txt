@@ -1,0 +1,22 @@
+C:\Users\raque\OneDrive\Área de Trabalho\estrutura de dados\avaliação 1 - gravadora\Gravadora\Gravadora\bin\Debug\Gravadora.exe.config
+C:\Users\raque\OneDrive\Área de Trabalho\estrutura de dados\avaliação 1 - gravadora\Gravadora\Gravadora\bin\Debug\Gravadora.exe
+C:\Users\raque\OneDrive\Área de Trabalho\estrutura de dados\avaliação 1 - gravadora\Gravadora\Gravadora\bin\Debug\Gravadora.pdb
+C:\Users\raque\OneDrive\Área de Trabalho\estrutura de dados\avaliação 1 - gravadora\Gravadora\Gravadora\obj\Debug\Gravadora.csproj.AssemblyReference.cache
+C:\Users\raque\OneDrive\Área de Trabalho\estrutura de dados\avaliação 1 - gravadora\Gravadora\Gravadora\obj\Debug\Gravadora.csproj.CoreCompileInputs.cache
+C:\Users\raque\OneDrive\Área de Trabalho\estrutura de dados\avaliação 1 - gravadora\Gravadora\Gravadora\obj\Debug\Gravadora.exe
+C:\Users\raque\OneDrive\Área de Trabalho\estrutura de dados\avaliação 1 - gravadora\Gravadora\Gravadora\obj\Debug\Gravadora.pdb
+C:\Users\pa_ti\OneDrive\Área de Trabalho\Engenharia da Computação\7 PERIODO\Projetos ED\projeto 1 - ed\Gravadora\bin\Debug\Gravadora.exe.config
+C:\Users\pa_ti\OneDrive\Área de Trabalho\Engenharia da Computação\7 PERIODO\Projetos ED\projeto 1 - ed\Gravadora\bin\Debug\Gravadora.exe
+C:\Users\pa_ti\OneDrive\Área de Trabalho\Engenharia da Computação\7 PERIODO\Projetos ED\projeto 1 - ed\Gravadora\bin\Debug\Gravadora.pdb
+C:\Users\pa_ti\OneDrive\Área de Trabalho\Engenharia da Computação\7 PERIODO\Projetos ED\projeto 1 - ed\Gravadora\obj\Debug\Gravadora.csproj.AssemblyReference.cache
+C:\Users\pa_ti\OneDrive\Área de Trabalho\Engenharia da Computação\7 PERIODO\Projetos ED\projeto 1 - ed\Gravadora\obj\Debug\Gravadora.csproj.CoreCompileInputs.cache
+C:\Users\pa_ti\OneDrive\Área de Trabalho\Engenharia da Computação\7 PERIODO\Projetos ED\projeto 1 - ed\Gravadora\obj\Debug\Gravadora.exe
+C:\Users\pa_ti\OneDrive\Área de Trabalho\Engenharia da Computação\7 PERIODO\Projetos ED\projeto 1 - ed\Gravadora\obj\Debug\Gravadora.pdb
+C:\Users\pa_ti\OneDrive\Documentos\Engenharia da Computação\Projetos\estrutura de dados\Projeto 1 - Gravadora\Gravadora\bin\Debug\Gravadora.exe.config
+C:\Users\pa_ti\OneDrive\Documentos\Engenharia da Computação\Projetos\estrutura de dados\Projeto 1 - Gravadora\Gravadora\bin\Debug\Gravadora.exe
+C:\Users\pa_ti\OneDrive\Documentos\Engenharia da Computação\Projetos\estrutura de dados\Projeto 1 - Gravadora\Gravadora\bin\Debug\Gravadora.pdb
+C:\Users\pa_ti\OneDrive\Documentos\Engenharia da Computação\Projetos\estrutura de dados\Projeto 1 - Gravadora\Gravadora\obj\Debug\Gravadora.csproj.AssemblyReference.cache
+C:\Users\pa_ti\OneDrive\Documentos\Engenharia da Computação\Projetos\estrutura de dados\Projeto 1 - Gravadora\Gravadora\obj\Debug\Gravadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\pa_ti\OneDrive\Documentos\Engenharia da Computação\Projetos\estrutura de dados\Projeto 1 - Gravadora\Gravadora\obj\Debug\Gravadora.csproj.CoreCompileInputs.cache
+C:\Users\pa_ti\OneDrive\Documentos\Engenharia da Computação\Projetos\estrutura de dados\Projeto 1 - Gravadora\Gravadora\obj\Debug\Gravadora.exe
+C:\Users\pa_ti\OneDrive\Documentos\Engenharia da Computação\Projetos\estrutura de dados\Projeto 1 - Gravadora\Gravadora\obj\Debug\Gravadora.pdb
